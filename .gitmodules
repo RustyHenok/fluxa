@@ -1,0 +1,9 @@
+[submodule "fluxa-backend"]
+	path = fluxa-backend
+	url = https://github.com/RustyHenok/fluxa-backend.git
+[submodule "fluxa-web"]
+	path = fluxa-web
+	url = https://github.com/RustyHenok/fluxa-web
+[submodule "fluxa-mobile"]
+	path = fluxa-mobile
+	url = https://github.com/RustyHenok/fluxa-mobile
